@@ -1,0 +1,17 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "description": "Design Patterns With TypeScript",
+  "keywords": [
+    "TypeScript",
+    "Design Patterns"
+  ],
+  "scripts": {
+    "start": "tsc"
+  },
+  "author": "Clevanilson",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
